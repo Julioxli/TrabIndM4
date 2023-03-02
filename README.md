@@ -33,5 +33,4 @@
 >
 >> <h2> 1-1 e 1-N </h2>
 
-[TrabIndM4dbpdf.pdf](https://github.com/Julioxli/TrabIndM4/files/10870705/TrabIndM4dbpdf.pdf)
 
